@@ -7,7 +7,7 @@ body {
   margin: 10px 0;
   font-family: Playfair Display;
   font-size: 17px;
-  padding: 0 60px;
+  padding: 30px 60px;
 }
 .header-menu a:hover {
   cursor: pointer;
@@ -44,8 +44,8 @@ body {
   width: 45%;
   margin: 40px 0;
 }
-.block:nth-child(2n+1) {
-  margin-right: 6%;
+.block-margin {
+  margin-right: 10%;
 }
 .article-blocks {
   display: flex;
